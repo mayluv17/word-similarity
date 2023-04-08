@@ -5,5 +5,5 @@ import styles from "./page.module.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export default function Home() {
-  return <h1>i'm working</h1>;
+  return <main className="bg-red-500"></main>;
 }
