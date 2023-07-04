@@ -14,11 +14,11 @@ export default function RootLayout({
   return (
     <html
       lang="en"
-      className={cn("g-white text-slate-900 antialised", inter.className)}
+      className={cn("bg-white text-slate-900 antialised", inter.className)}
     >
       <body
         className="
-      min-h-screen bg-slate-50 dark:bg-sate-900 anntialiased"
+          min-h-screen bg-slate-50 dark:bg-slate-900 anntialiased"
       >
         {/* @ts-expect-error srver Component*/}
         <Navbar />
