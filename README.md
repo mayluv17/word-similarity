@@ -15,7 +15,4 @@ Animation with tailwindcss-animate
 Conditional classes with clsx
 Variants with class-variance-authority
 
-```
 [Click here for demo](https://www.similarityapi.com/)
-
-```
